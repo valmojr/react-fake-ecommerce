@@ -1,15 +1,13 @@
 {
   "files": {
-    "main.css": "/react-to-do-list/static/css/main.33a374ce.css",
-    "main.js": "/react-to-do-list/static/js/main.4bf815f1.js",
-    "static/js/787.03c1ffdc.chunk.js": "/react-to-do-list/static/js/787.03c1ffdc.chunk.js",
-    "index.html": "/react-to-do-list/index.html",
-    "main.33a374ce.css.map": "/react-to-do-list/static/css/main.33a374ce.css.map",
-    "main.4bf815f1.js.map": "/react-to-do-list/static/js/main.4bf815f1.js.map",
-    "787.03c1ffdc.chunk.js.map": "/react-to-do-list/static/js/787.03c1ffdc.chunk.js.map"
+    "main.css": "/react-fake-ecommerce/static/css/main.e6c13ad2.css",
+    "main.js": "/react-fake-ecommerce/static/js/main.9dc2527c.js",
+    "index.html": "/react-fake-ecommerce/index.html",
+    "main.e6c13ad2.css.map": "/react-fake-ecommerce/static/css/main.e6c13ad2.css.map",
+    "main.9dc2527c.js.map": "/react-fake-ecommerce/static/js/main.9dc2527c.js.map"
   },
   "entrypoints": [
-    "static/css/main.33a374ce.css",
-    "static/js/main.4bf815f1.js"
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.9dc2527c.js"
   ]
 }
