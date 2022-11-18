@@ -6,7 +6,7 @@ React Web App that simulates a Ecommerce simple shopping list and cart for Conte
 - Use of Context API
 - Use of Styled-Components
 
-### `npm start`
+### `npm install`
 Installs the necessary dependences
 ### `npm start`
 Runs the app in the development mode.\
